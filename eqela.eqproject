@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Activity4
+#
+
+projectname: Activity4
+vendorid: com.hicban
+mainmodule: com.hicban.activity4
